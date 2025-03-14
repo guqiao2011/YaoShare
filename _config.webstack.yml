@@ -71,6 +71,9 @@ menu:
       - name: 我的博客
         icon: fas fa-blog
         config: myBlog
+  - name: 线上站点
+    icon: far fa-globe-pointer
+    config: onlineWebsite
                 
 freeConfig:
   - name: 搞开发
@@ -319,10 +322,6 @@ aiTools:
     url: https://yyai8.com/
     img: /images/logos/github.png
     description: 边界AI
-  - name: 边界AI
-    url: https://yyai8.com/
-    img: /images/logos/github.png
-    description: 边界AI
 
 otherTools:
   - name: DNS查询
@@ -390,6 +389,53 @@ myBlog:
     img: /images/logos/github.png
     description: 各种学习资料
 
+onlineWebsite:
+  - name: awardspace
+    url: http://yaoger.getenjoyment.net/
+    img: /images/logos/github.png
+    description:     
+  - name: OpenBlog
+    url: http://yaoger.endl.site/OpenBlog/
+    img: /images/logos/github.png
+    description: 
+  - name: YaogerBlog
+    url: hhttp://yaoger.endl.site/YaogerBlog/
+    img: /images/logos/github.png
+    description: 
+  - name: vmhost
+    url: http://yaoger.ccccocccc.cc/
+    img: /images/logos/github.png
+    description: 
+  - name: infinityfree
+    url: http://yaoger.free.nf/
+    img: /images/logos/github.png
+    description: 
+  - name: 51server
+    url: http://guqiao2011.51server.top/
+    img: /images/logos/github.png
+    description:
+  - name: byet
+    url: http://guqiao2011.byethost22.com/
+    img: /images/logos/github.png
+    description: 
+  - name: netlify
+    url: https://guqiao2011.netlify.app/
+    img: /images/logos/github.png
+    description:      
+  - name: vercel
+    url: https://guqiao2011.vercel.app/
+    img: /images/logos/github.png
+    description:  
+  - name: fleek
+    url: https://tiny-airport-slow.on-fleek.app/
+    img: /images/logos/github.png
+    description:
+  - name: deno
+    url: https://guqiao2011.deno.dev/
+    img: /images/logos/github.png
+    description:          
+
+
 about:
   url: /about/
   icon: far fa-heart
@@ -401,10 +447,10 @@ aboutPage:
     html: '<blockquote><p>本站是hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>的demo站。</p></blockquote>'
   webmaster:
     head: 关于站长
-    name: YaogerJiang
-    url: http://39.97.121.159:9999/
+    name: YaoShare
+    url: guqiao2011.github.io/YaoShare/
     img: /images/logos/myblog.png
-    description: 1年抵10年的Android程序猿
+    description: 分享日常免费资源，公众号YaoShare
     html: '<br /><blockquote><p>本站是基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
 
 since: 2023
