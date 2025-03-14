@@ -319,7 +319,10 @@ aiTools:
     url: https://yyai8.com/
     img: /images/logos/github.png
     description: 边界AI
-  
+  - name: 边界AI
+    url: https://yyai8.com/
+    img: /images/logos/github.png
+    description: 边界AI
 
 otherTools:
   - name: DNS查询
