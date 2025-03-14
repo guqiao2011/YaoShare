@@ -74,6 +74,9 @@ menu:
   - name: 线上站点
     icon: fa fa-desktop
     config: onlineWebsite
+  - name: YaoShare公众号
+    icon: fa fa-file-word-o
+    config: wechatArticle    
                 
 freeConfig:
   - name: 搞开发
@@ -433,8 +436,25 @@ onlineWebsite:
   - name: deno
     url: https://guqiao2011.deno.dev/
     img: /images/logos/github.png
-    description:          
+    description:
 
+wechatArticle:
+  - name: 影音资源
+    url: /media/
+    img: /images/logos/github.png
+    description:         
+  - name: 资源搜索
+    url: https://guqiao2011.deno.dev/
+    img: /images/logos/github.png
+    description:
+  - name: 每日分享
+    url: https://guqiao2011.deno.dev/
+    img: /images/logos/github.png
+    description:
+  - name: 待分类
+    url: https://guqiao2011.deno.dev/
+    img: /images/logos/github.png
+    description:      
 
 about:
   url: /about/
@@ -453,7 +473,7 @@ aboutPage:
     description: 分享日常免费资源，公众号YaoShare
     html: '<br /><blockquote><p>本站是基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
 
-since: 2023
+since: 2025
 
 busuanzi:
   enable: true
