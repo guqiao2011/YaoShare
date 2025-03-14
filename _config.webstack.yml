@@ -439,8 +439,8 @@ onlineWebsite:
     description:
 
 wechatArticle:
-  - name: 影音资源
-    url: /media/
+  - name: 微信公众号
+    url: /wechat/
     img: /images/logos/github.png
     description: 
 
@@ -456,7 +456,7 @@ aboutPage:
   webmaster:
     head: 关于站长
     name: YaoShare
-    url: guqiao2011.github.io/YaoShare/
+    url: http://guqiao2011.github.io/YaoShare/
     img: /images/logos/myblog.png
     description: 分享日常免费资源，公众号YaoShare
     html: '<br /><blockquote><p>本站是基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
