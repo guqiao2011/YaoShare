@@ -75,7 +75,7 @@ menu:
     icon: fa fa-desktop
     config: onlineWebsite
   - name: YaoShare公众号
-    icon: fa fa-file-word-o
+    icon: far fa-star
     config: wechatArticle    
                 
 freeConfig:
@@ -442,19 +442,7 @@ wechatArticle:
   - name: 影音资源
     url: /media/
     img: /images/logos/github.png
-    description:         
-  - name: 资源搜索
-    url: https://guqiao2011.deno.dev/
-    img: /images/logos/github.png
-    description:
-  - name: 每日分享
-    url: https://guqiao2011.deno.dev/
-    img: /images/logos/github.png
-    description:
-  - name: 待分类
-    url: https://guqiao2011.deno.dev/
-    img: /images/logos/github.png
-    description:      
+    description: 
 
 about:
   url: /about/
