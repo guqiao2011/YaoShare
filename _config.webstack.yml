@@ -31,7 +31,10 @@ expandAll: false
 menu:
   - name: 公众号
     icon: far fa-star
-    config: wechatArticle 
+    config: wechatArticle
+  - name: 线上站点
+    icon: fa fa-desktop
+    config: onlineWebsite    
   - name: 秘密花园
     icon: far fa-star
     submenu:
@@ -74,9 +77,7 @@ menu:
       - name: 我的博客
         icon: fas fa-blog
         config: myBlog
-  - name: 线上站点
-    icon: fa fa-desktop
-    config: onlineWebsite
+
    
                 
 freeConfig:
