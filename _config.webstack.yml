@@ -72,7 +72,7 @@ menu:
         icon: fas fa-blog
         config: myBlog
   - name: 线上站点
-    icon: far fa-globe-pointer
+    icon: fas fa-globe-pointer
     config: onlineWebsite
                 
 freeConfig:
@@ -388,10 +388,6 @@ myBlog:
     url: https://github.com/hoodiearon/WebSiteOutlook
     img: /images/logos/github.png
     description: 各种学习资料
-  - name: 内卷
-    url: https://github.com/hoodiearon/WebSiteOutlook
-    img: /images/logos/github.png
-    description: 各种学习资料    
 
 onlineWebsite:
   - name: awardspace
