@@ -388,6 +388,10 @@ myBlog:
     url: https://github.com/hoodiearon/WebSiteOutlook
     img: /images/logos/github.png
     description: 各种学习资料
+  - name: 内卷
+    url: https://github.com/hoodiearon/WebSiteOutlook
+    img: /images/logos/github.png
+    description: 各种学习资料    
 
 onlineWebsite:
   - name: awardspace
