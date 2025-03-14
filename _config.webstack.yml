@@ -452,7 +452,7 @@ about:
 aboutPage:
   website:
     head: 关于本站
-    html: '<blockquote><p>本站是hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>的demo站。</p></blockquote>'
+    html: '<blockquote><p>本站分享免费好玩的资源</p></blockquote>'
   webmaster:
     head: 关于站长
     name: YaoShare
