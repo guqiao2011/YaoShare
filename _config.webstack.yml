@@ -72,7 +72,7 @@ menu:
         icon: fas fa-blog
         config: myBlog
   - name: 线上站点
-    icon: fas fa-globe-pointer
+    icon: fa fa-desktop
     config: onlineWebsite
                 
 freeConfig:
