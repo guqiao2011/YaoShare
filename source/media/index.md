@@ -17,18 +17,10 @@ otherConf:
     url: https://mp.weixin.qq.com/s/WSt6wN-hKIhim3QCxqbcVw
     img: /images/logos/myblog.png
     description: 影视资源
-  - name: 国内网盘大比拼，总有一款适合你！
-    url: https://mp.weixin.qq.com/s/6p0ZSgjyL1MqyMBiOPEV8g
-    img: /images/logos/myblog.png
-    description: 网盘大比拼
   - name: 音乐爱好者的福音！这些音乐网站不容错过
     url: https://mp.weixin.qq.com/s/y6Td9uQuhzr1mLf1ONRlUg
     img: /images/logos/myblog.png
     description: 音乐福利
-  - name: 电子书爱好者的福音！帮你轻松找到心仪好书
-    url: https://mp.weixin.qq.com/s/CBXh05a0T6nxhzVEKRMtTA
-    img: /images/logos/myblog.png
-    description: 电子书
   - name: 推荐几个手机AI工具，以后你也可以成为专家
     url: https://mp.weixin.qq.com/s/SDau7T2wdOoJh_Jy4eYjpA?token=649220524&lang=zh_CN
     img: /images/logos/myblog.png

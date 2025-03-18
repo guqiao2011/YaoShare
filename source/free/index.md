@@ -13,9 +13,125 @@ menu:
   - name: 免费服务器
     icon: far fa-star
     config: FreeServerConf 
+  - name: 电子书
+    icon: far fa-star
+    config: EbookConf
+  - name: 国内网盘
+    icon: far fa-star
+    config: WangPanConf
   - name: 其他资源
     icon: far fa-star
     config: otherRes
+
+WangPanConf:
+  - name: 百度网盘
+    url: https://pan.baidu.com/
+    img: /images/logos/myblog.png
+    description: 免费15G
+  - name: 阿里云盘
+    url: https://www.alipan.com/
+    img: /images/logos/myblog.png
+    description: 免费100G
+  - name: 腾讯微云
+    url: https://www.weiyun.com/
+    img: /images/logos/myblog.png
+    description: 免费5G
+  - name: 坚果云
+    url: https://www.jianguoyun.com/
+    img: /images/logos/myblog.png
+    description: 免费1G（上传流量1G/月、下载流量3G/月）
+  - name: 天翼云盘
+    url: https://cloud.189.cn/web/login.html
+    img: /images/logos/myblog.png
+    description: 免费60G
+  - name: 360亿方云
+    url: https://www.fangcloud.com/
+    img: /images/logos/myblog.png
+    description: 免费10G（上传流量1G/月、下载流量1G/月）
+  - name: 华为云空间
+    url: https://cloud.huawei.com/
+    img: /images/logos/myblog.png
+    description: 免费5G
+  - name: 夸克网盘
+    url: https://www.quark.cn/
+    img: /images/logos/myblog.png
+    description: 免费10G
+  - name: 115网盘
+    url: https://115.com/
+    img: /images/logos/myblog.png
+    description: 免费15G
+  - name: 蓝奏云
+    url: https://lanzou.com/
+    img: /images/logos/myblog.png
+    description: 存储不限
+  - name: UC网盘
+    url: https://drive.uc.cn/
+    img: /images/logos/myblog.png
+    description: 免费10G
+  - name: 迅雷云盘
+    url: https://pan.xunlei.com/
+    img: /images/logos/myblog.png
+    description: 免费10G
+  - name: 联通云盘
+    url: https://pan.wo.cn/
+    img: /images/logos/myblog.png
+    description: 免费10G
+  - name: 永硕E盘
+    url: http://www.ys168.com/
+    img: /images/logos/myblog.png
+    description: 免费2G（单个文件上传限制30M）
+  - name: 123云盘
+    url: https://www.123pan.com/
+    img: /images/logos/myblog.png
+    description: 免费2T（上传不限制，下载10G/月）
+  - name: 曲奇云盘
+    url: https://www.quqi.com/
+    img: /images/logos/myblog.png
+    description: 免费10G
+  - name: 超星云盘
+    url: https://app.xuexitong.com/
+    img: /images/logos/myblog.png
+    description: 免费100G
+  - name: 城通网盘
+    url: https://www.ctfile.com/
+    img: /images/logos/myblog.png
+    description: 免费5T
+  - name: FileIM
+    url: https://www.fileim.com/
+    img: /images/logos/myblog.png
+    description: 免费500G
+  - name: DuFile
+    url: https://dufile.com/
+    img: /images/logos/myblog.png
+    description: 存储不限
+  - name: 飞猫盘
+    url: https://www.feemoo.com/
+    img: /images/logos/myblog.png
+    description: 免费10G  
+  - name: 盘它云
+    url: https://www.pantayun.com/
+    img: /images/logos/myblog.png
+    description: 免费3T  
+  - name: 比特球云盘
+    url: https://pan.bitqiu.com/
+    img: /images/logos/myblog.png
+    description: 免费20G
+  - name: WPS云盘
+    url: https://365.wps.cn/landing/yundisk
+    img: /images/logos/myblog.png
+    description: 企业体验版免费存储空间2G/人， 上限10G，上限20人
+  - name: huang1111网盘
+    url: https://pan.huang1111.cn/
+    img: /images/logos/myblog.png
+    description: 免费5T
+  - name: 小飞机网盘
+    url: https://www.feijipan.com/
+    img: /images/logos/myblog.png
+    description: 免费10G
+  - name: 月盘
+    url: https://yuepani.yuemlk.xyz/
+    img: /images/logos/myblog.png
+    description: 免费10T
 
 
 pansouConf:
@@ -40,6 +156,12 @@ pansouConf:
 BaasConf:
   - name: Bmob
     url: https://www.bmobapp.com/
+    img: /images/logos/myblog.png
+    description:     
+
+EbookConf:
+  - name: SaltyLeo的书架
+    url: https://book.tstrs.me/
     img: /images/logos/myblog.png
     description:     
 

@@ -31,18 +31,6 @@ mediaConf:
     url: https://www.piaohua.com/
     img: /images/logos/myblog.png
     description: 飘花迅雷电影下载
-  - name: 策驰影院
-    url: https://www.39kan.com/
-    img: /images/logos/myblog.png
-    description: 策驰影院
-  - name: 毛茂影视
-    url: https://umao.ml/
-    img: /images/logos/myblog.png
-    description: 毛茂影视
-  - name: 神马电影网
-    url: https://www.shenma4480.com/
-    img: /images/logos/myblog.png
-    description: 神马电影网
   - name: LIBVIO影视
     url: https://www.libvio.me/
     img: /images/logos/myblog.png
