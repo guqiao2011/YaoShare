@@ -13,14 +13,6 @@ otherConf:
     url: https://mp.weixin.qq.com/s/oKbQ-OTx7Q4c4WNoDh6zfw
     img: /images/logos/myblog.png
     description:  
-  - name: 适合学生党的后端服务Bmob
-    url: https://mp.weixin.qq.com/s/JmgzmT4wqDylq4xpgvMHTw
-    img: /images/logos/myblog.png
-    description: Bmob
-  - name: 分享一款全网网盘资源搜索神器
-    url: https://mp.weixin.qq.com/s/y-KiESsWdvAUxHCSKoXnSg
-    img: /images/logos/myblog.png
-    description: 网盘搜索
   - name: 宝藏影视网站大公开，免费高清任你挑！
     url: https://mp.weixin.qq.com/s/WSt6wN-hKIhim3QCxqbcVw
     img: /images/logos/myblog.png
@@ -45,14 +37,6 @@ otherConf:
     url: https://mp.weixin.qq.com/s/9-T2LP-OrBe6tBSEWdVmoQ
     img: /images/logos/myblog.png
     description: 美剧
-  - name: 免费服务器大放送，快来薅羊毛
-    url: https://mp.weixin.qq.com/s/5AFQ3TyxY6OVwbTXzy2gzQ
-    img: /images/logos/myblog.png
-    description: 免费服务器
-  - name: 分享三款网盘搜索工具，帮你轻松找到所需资源！
-    url: https://mp.weixin.qq.com/s/PRbAFHQq3r2WwIV9WWowow
-    img: /images/logos/myblog.png
-    description: 网盘搜索
   - name: 推荐一个免费AI律师（法律助手）
     url: https://mp.weixin.qq.com/s/oqM7s6wmrY-2rPYI_tPbVA
     img: /images/logos/myblog.png

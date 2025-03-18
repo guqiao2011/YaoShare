@@ -33,6 +33,14 @@ shareConf:
     url: https://mp.weixin.qq.com/s/RNY3wvaiMcugeN3dL6P-OA
     img: /images/logos/myblog.png
     description: 
+  - name: 20250317
+    url: https://mp.weixin.qq.com/s/7rdlhcDlBGHM2-oSpDnupg
+    img: /images/logos/myblog.png
+    description:     
+  - name: 20250318
+    url: https://mp.weixin.qq.com/s/cwsyl5U1eT5KWbYxC_6Jdw
+    img: /images/logos/myblog.png
+    description:      
 
 ---
 
