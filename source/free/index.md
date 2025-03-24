@@ -19,6 +19,12 @@ menu:
   - name: 国内网盘
     icon: far fa-star
     config: WangPanConf
+  - name: 音乐资源
+    icon: far fa-star
+    config: MusicConf
+  - name: 影视资源
+    icon: far fa-star
+    config: VideoConf    
   - name: 其他资源
     icon: far fa-star
     config: otherRes
@@ -257,6 +263,504 @@ FreeServerConf:
     url: https://www.infinityfree.com/
     img: /images/logos/myblog.png
     description: PHP（8.2）/MySql 8.0/MariaDB 10.6（400个数据库）
+
+MusicConf:
+  - name: 铜钟音乐
+    url: https://tonzhon.com/
+    img: /images/logos/myblog.png
+    description: 提供播放，搜索和下载功能，主要数据源为网易云，超级搜索带推广功能，谨慎使用，支持浏览器访问
+  - name: 一周音乐
+    url: https://1zyy.com/
+    img: /images/logos/myblog.png
+    description: 一些主流平台听不了的歌这里都能下载，推荐使用夸克App访问并配合App自带的夸克网盘保存下载
+  - name: 音乐魔石
+    url: https://yym4.com/
+    img: /images/logos/myblog.png
+    description: 一些主流平台听不了的歌这里都能下载，推荐使用夸克App访问并配合App自带的夸克网盘保存下载    
+  - name: 音乐磁场
+    url: https://www.hifini.com/
+    img: /images/logos/myblog.png
+    description: 提供无损音乐，可以在线听歌，如果要下载歌曲，需要自备百度网盘并注册网站账号进行回复以获取提取码
+  - name: 放屁网
+    url: https://www.fangpi.net/
+    img: /images/logos/myblog.png
+    description: 支持搜索、播放功能，支持歌词、（低品质、高品质）歌曲（打包）下载。小编推荐。如要下载，自备迅雷网盘
+  - name: 歌曲宝
+    url: https://www.gequbao.com/
+    img: /images/logos/myblog.png
+    description: 支持搜索、播放功能，支持歌词、（低品质、高品质）歌曲（打包）下载。小编推荐。如要下载，自备迅雷网盘
+  - name: 熊猫无损音乐网
+    url: https://www.xmwav.com/
+    img: /images/logos/myblog.png
+    description: 提供音乐试听、提供（低品质、高品质）歌曲（打包）下载。如要下载，自备夸克网盘
+  - name: 种子音乐
+    url: https://zz123.com/
+    img: /images/logos/myblog.png
+    description: 未登录可听首页歌曲，搜索和下载功能会引导扫码，扫完后会看广告，看完显示验证码，邮箱可以随便填
+  - name: 爱音吧
+    url: https://www.aiyiny.com/
+    img: /images/logos/myblog.png
+    description: 提供各类音乐下载，不建议付费下载。支持迅雷网盘、夸克网盘、城通网盘保存下载
+  - name: 音微
+    url: https://www.yinwe.com/
+    img: /images/logos/myblog.png
+    description: 有广告，可在线听歌，登录评论才能下载歌曲，直接下载，无需网盘，下载速度有点慢
+  - name: 我爱无损音乐网
+    url: http://www.52wusun.com/
+    img: /images/logos/myblog.png
+    description: 完全免费的高品质音乐站，适合专辑下载，下载自城通网盘
+  - name: 一起听歌吧
+    url: https://music.alang.run/#/
+    img: /images/logos/myblog.png
+    description: 进入房间就能听歌
+  - name: 悦听音乐网
+    url: https://www.yueting.net/
+    img: /images/logos/myblog.png
+    description: 通过搜索下载歌曲就行了，不用关注公众号
+  - name: MP3BST
+    url: https://mp3bst.com/
+    img: /images/logos/myblog.png
+    description: 全免费，自备城通网盘下载
+  - name: 轻音乐俱乐部
+    url: https://qingyinyue.club/
+    img: /images/logos/myblog.png
+    description: 在线听轻音乐
+  - name: 哔哔音乐
+    url: https://hefen.lanzoue.com/b00pzvxcib
+    img: /images/logos/myblog.png
+    description: 支持Windows、安卓
+  - name: 酷狗音乐概念版3.2.3
+    url: https://4275.com/fuk3so
+    img: /images/logos/myblog.png
+    description: 3.2.3 版 可以每天听歌领取 VIP，支持苹果、安卓
+  - name: 咪咕音乐
+    url: https://www.baidu.com/s?wd=咪咕音乐
+    img: /images/logos/myblog.png
+    description: 中国移动出品，支持苹果、安卓，一些冷门歌的版权很多都能免费听、免费下
+  - name: Listen1
+    url: https://listen1.github.io/listen1/
+    img: /images/logos/myblog.png
+    description: 歌源来源于网易云音乐、QQ音乐、酷狗音乐、酷我音乐、Bilibili、咪咕音乐，支持浏览器插件、Windows、Mac、安卓客户端
+
+
+VideoConf:
+  - name: 美剧迷
+    url: https://www.meijumi.net
+    img: /images/logos/myblog.png
+    description: 提供美剧、英剧、动漫/动画、综艺/真人秀下载
+    
+  - name: 不太灵影视
+    url: https://test.butai0.club/
+    img: /images/logos/myblog.png
+    description: 不仅提供美剧，也提供包括国产、欧美、亚洲、北美等多个地区的电影、电视剧资源，支持1080P和4K下载。
+
+  - name: 校长影视
+    url: https://xzys.fun/
+    img: /images/logos/myblog.png
+    description: 提供高清热门影视资源
+
+  - name: SeedHub
+    url: https://www.seedhub.cc/categories/3/tags/1263/movies/
+    img: /images/logos/myblog.png
+    description: 提供电影、动漫、剧集搜索和下载地址
+
+  - name: NO视频
+    url: https://www.novipnoad.net/tv/western/
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 注视影视
+    url: https://gaze.run/
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 修罗影视
+    url:  https://xlys.me
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 在线之家
+    url: https://www.zxzjys.com/list/2.html
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 皮皮蛋影视
+    url: https://cddys1.me/
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 人人影视
+    url: https://svip1.fun/
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 八号影视
+    url: https://www.bahaotv.com/
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 快点播
+    url: https://www.quickvod.cc/
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 看看屋
+    url: https://www.kankanwu.cc/
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 可达影视
+    url: https://www.kedays.top/
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 4K影视
+    url: https://www.4kvm.tv/
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+  - name: 
+    url: 
+    img: /images/logos/myblog.png
+    description: 
+
+
+
 
 ---
 

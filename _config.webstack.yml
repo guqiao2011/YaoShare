@@ -34,7 +34,10 @@ menu:
     config: wechatArticle
   - name: 线上站点
     icon: fa fa-desktop
-    config: onlineWebsite    
+    config: onlineWebsite
+  - name: 免费资源大全
+    icon: fa fa-star
+    config: FreeResConf       
   - name: 秘密花园
     icon: far fa-star
     submenu:
@@ -78,6 +81,11 @@ menu:
         icon: fas fa-blog
         config: myBlog
 
+FreeResConf:
+  - name: 免费资源大全
+    url: /free/
+    img: /images/logos/github.png
+    description: 免费资源大全
    
                 
 freeConfig:
@@ -85,10 +93,6 @@ freeConfig:
     url: /develop/
     img: /images/logos/github.png
     description: 各种开发资源    
-  - name: 免费资源
-    url: /free/
-    img: /images/logos/github.png
-    description: 白嫖
   - name: API资源站
     url: /api/
     img: /images/logos/github.png
