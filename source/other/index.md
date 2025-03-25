@@ -175,14 +175,6 @@ otherTool:
     url: https://www.diyihuifu.com/
     img: /images/logos/github.png
     description: 电脑数据恢复专家
-  - name: 小丸工具箱
-    url: https://maruko.appinn.me/
-    img: /images/logos/github.png
-    description: 音视频处理工具箱
-  - name: 万彩办公大师
-    url: http://www.wofficebox.com/
-    img: /images/logos/github.png
-    description: 免费的办公工具百宝箱
   - name: Motrix
     url: https://github.com/agalwood/Motrix
     img: /images/logos/github.png
@@ -249,10 +241,6 @@ other:
     url: https://gitmind.cn/
     img: /images/logos/github.png
     description: 新一代免费思维导图协作软件
-  - name: 万能命令
-    url: https://wannengrun.com/zh/
-    img: /images/logos/github.png
-    description: 快速找工具
   - name: virustotal
     url: https://www.virustotal.com/gui/
     img: /images/logos/github.png

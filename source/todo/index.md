@@ -225,46 +225,5 @@ https://lifelong.smartedu.cn/home
 国家智慧教育读书平台
 https://reading.smartedu.cn/
 
-# AI工具
-
-DeepSeek
-https://www.deepseek.com
-
-豆包
-https://www.doubao.com
-
-讯飞星火  
-https://xinghuo.xfyun.cn
-
-文心一言
-https://yiyan.baidu.com
-
-腾讯混元
-https://yuanbao.tencent.com
-
-百川智能
-https://ying.baichuan-ai.com
-
-通义千问
-https://tongyi.aliyun.com
-
-智谱清言
-https://zhipuai.cn
-
-海螺AI  
-https://hailuoai.com
-
-Kimi  
-https://kimi.moonshot.cn
-
-纳米AI
-https://www.n.cn
-
-天工AI
-https://www.tiangong.cn
-
-问小白
-https://www.wenxiaobai.com/
-
 
 
