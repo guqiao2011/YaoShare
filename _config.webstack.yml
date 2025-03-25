@@ -82,6 +82,14 @@ menu:
         config: myBlog
 
 FreeResConf:
+  - name: 资源合集
+    url: https://flowus.cn/share/fed32d8d-fd27-4a97-91de-168587f180c7
+    img: /images/logos/github.png
+    description: FlowUs上的资源合集
+  - name: 资源合集备份
+    url: https://www.wolai.com/mUVjdyP6Hp9XXmAYxGG1yB
+    img: /images/logos/github.png
+    description: wolai资源合集备份  
   - name: 免费资源大全
     url: /free/
     img: /images/logos/github.png
