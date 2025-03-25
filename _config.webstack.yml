@@ -68,9 +68,6 @@ menu:
   - name: 常用工具
     icon: fas fa-tools
     submenu:
-      - name: Ai工具
-        icon: fas fa-tools
-        config: aiTools
       - name: 开发工具
         icon: fas fa-tools
         config: devTools
@@ -333,12 +330,6 @@ devTools:
     url: https://www.gaitubao.com/
     img: /images/logos/github.png
     description: 在线修改照片大小尺寸工具
-
-aiTools:
-  - name: 边界AI
-    url: https://yyai8.com/
-    img: /images/logos/github.png
-    description: 边界AI
 
 otherTools:
   - name: DNS查询
