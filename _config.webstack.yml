@@ -37,16 +37,14 @@ menu:
     config: onlineWebsite
   - name: 免费资源大全
     icon: fa fa-star
-    config: FreeResConf       
-  - name: 秘密花园
-    icon: far fa-star
-    submenu:
-      - name: 服务器资源
-        icon: fas fa-tools
-        config: server
-      - name: 薅羊毛
-        icon: fas fa-tools
-        config: welfare                
+    config: FreeResConf
+
+  - name: 服务器资源
+    icon: fa fa-star
+    config: server
+  - name: 薅羊毛
+    icon: fa fa-star
+    config: welfare               
   - name: 网址导航
     icon: far fa-star
     config: webNav
@@ -56,12 +54,9 @@ menu:
   - name: 学习网站
     icon: far fa-star
     config: learn
-  - name: 博客记录
-    icon: far fa-star
-    submenu:
-      - name: 收藏文章
-        icon: fas fa-blog
-        config: articleConf
+  - name: 收藏文章
+    icon: fas fa-blog
+    config: articleConf
   - name: 常用工具
     icon: fas fa-tools
     submenu:
