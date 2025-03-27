@@ -41,15 +41,9 @@ menu:
   - name: 秘密花园
     icon: far fa-star
     submenu:
-      - name: 免费资源
-        icon: fas fa-tools
-        config: freeConfig
       - name: 服务器资源
         icon: fas fa-tools
         config: server
-      - name: 开发文档
-        icon: fas fa-tools
-        config: doc
       - name: 薅羊毛
         icon: fas fa-tools
         config: welfare                
@@ -94,18 +88,6 @@ FreeResConf:
     url: /free/
     img: /images/logos/github.png
     description: 免费资源大全
-   
-                
-freeConfig:
-  - name: 搞开发
-    url: /develop/
-    img: /images/logos/github.png
-    description: 各种开发资源
-  - name: git免费电子书
-    url: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md
-    img: /images/logos/github.png
-    description: github上免费的电子书
-
 
 server:
   - name: 天翼云
@@ -131,29 +113,7 @@ server:
   - name: 七牛云
     url: https://marketing.qiniu.com/activity/2024-new-act?entry=index-advert#qvm-package-title
     img: /images/logos/github.png
-    description: 七牛云
-
-doc:
-  - name: Flask
-    url: https://www.osgeo.cn/flask/
-    img: /images/logos/github.png
-    description: 
-  - name: FFmpegKit
-    url: https://arthenica.github.io/ffmpeg-kit/
-    img: /images/logos/github.png
-    description:       
-  - name: Springboot
-    url: https://docs.spring.io/spring-boot/docs/2.6.15/reference/htmlsingle/#features.spring-application
-    img: /images/logos/github.png
-    description:   
-  - name: VUE
-    url: https://cn.vuejs.org/
-    img: /images/logos/github.png
-    description:  
-  - name: MySql Doc（8.0）
-    url: https://dev.mysql.com/doc/refman/8.0/en/
-    img: /images/logos/github.png
-    description:        
+    description: 七牛云      
 
 welfare:
   - name: 天天赚
