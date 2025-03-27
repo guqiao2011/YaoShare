@@ -50,10 +50,6 @@ EbookConf:
     description:     
 
 otherRes:
-  - name: 大麦网抢票
-    url: https://github.com/ClassmateLin/dm-ticket
-    img: /images/logos/myblog.png
-    description: 大麦网抢票
   - name: Charles激活码工具
     url: https://www.zzzmode.com/mytools/charles/
     img: /images/logos/myblog.png
