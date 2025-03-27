@@ -30,7 +30,7 @@ githubCorner: '<a href="https://github.com/HCLonely/hexo-theme-webstack" class="
 expandAll: false
 menu:
   - name: 公众号
-    icon: far fa-star
+    icon: fa fa-star
     config: wechatArticle
   - name: 线上站点
     icon: fa fa-desktop
@@ -38,7 +38,6 @@ menu:
   - name: 免费资源大全
     icon: fa fa-star
     config: FreeResConf
-
   - name: 服务器资源
     icon: fa fa-star
     config: server
@@ -46,13 +45,13 @@ menu:
     icon: fa fa-star
     config: welfare               
   - name: 网址导航
-    icon: far fa-star
+    icon: fa fa-star
     config: webNav
   - name: 软件站
-    icon: far fa-star
+    icon: fa fa-star
     config: software
   - name: 学习网站
-    icon: far fa-star
+    icon: fa fa-star
     config: learn
   - name: 收藏文章
     icon: fas fa-blog
