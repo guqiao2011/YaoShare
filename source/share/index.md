@@ -21,14 +21,7 @@ shareConf:
     url: https://circular-grease-3ac.notion.site/1c3a3ad38a7e806e975ffe71d4c76c05
     img: /images/logos/myblog.png
     description:
-  - name: 搞开发
-    url: /develop/
-    img: /images/logos/github.png
-    description: 各种开发资源
-  - name: git免费电子书
-    url: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md
-    img: /images/logos/github.png
-    description: github上免费的电子书
+    
 ---
 
 
