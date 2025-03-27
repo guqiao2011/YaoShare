@@ -100,11 +100,7 @@ freeConfig:
   - name: 搞开发
     url: /develop/
     img: /images/logos/github.png
-    description: 各种开发资源    
-  - name: 搞文档
-    url: /document/
-    img: /images/logos/github.png
-    description: 各种文档处理
+    description: 各种开发资源
   - name: git免费电子书
     url: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md
     img: /images/logos/github.png

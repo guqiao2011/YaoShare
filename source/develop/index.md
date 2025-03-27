@@ -34,6 +34,10 @@ menu:
 
 
 webDoc:
+  - name: VUE
+    url: https://cn.vuejs.org/
+    img: /images/logos/github.png
+    description:  
   - name: elementUI
     url: https://element.eleme.cn
     img: /images/logos/github.png
@@ -158,6 +162,10 @@ mobileDoc:
     description: libgdxGithub
 
 backendDoc:
+  - name: Springboot
+    url: https://docs.spring.io/spring-boot/docs/2.6.15/reference/htmlsingle/#features.spring-application
+    img: /images/logos/github.png
+    description:   
   - name: tryRedis
     url: https://try.redis.io/
     img: /images/logos/github.png
@@ -186,6 +194,10 @@ backendDoc:
     url: https://mybatis.org/mybatis-3/zh/index.html
     img: /images/logos/github.png
     description: MyBatis官方文档
+  - name: MySql Doc（8.0）
+    url: https://dev.mysql.com/doc/refman/8.0/en/
+    img: /images/logos/github.png
+    description:  
   - name: Jeecg
     url: http://doc.jeecg.com/2043868
     img: /images/logos/github.png
@@ -352,6 +364,10 @@ LinuxDoc:
     
 
 PythonDoc:
+  - name: Flask
+    url: https://www.osgeo.cn/flask/
+    img: /images/logos/github.png
+    description: 
   - name: 正则表达式
     url: https://www.runoob.com/python/python-reg-expressions.html#flags
     img: /images/logos/github.png
@@ -526,6 +542,10 @@ PythonDoc:
     description: Python资源大全
 
 otherDoc:
+  - name: FFmpegKit
+    url: https://arthenica.github.io/ffmpeg-kit/
+    img: /images/logos/github.png
+    description:   
   - name: ApiDoc
     url: https://apidocjs.com/
     img: /images/logos/github.png
@@ -571,6 +591,3 @@ reverse:
 
 
 ---
-
-
-
