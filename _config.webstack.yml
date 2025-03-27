@@ -56,6 +56,9 @@ menu:
   - name: 网址导航
     icon: far fa-star
     config: webNav
+  - name: 软件站
+    icon: far fa-star
+    config: software
   - name: 学习网站
     icon: far fa-star
     config: learn
@@ -98,26 +101,15 @@ freeConfig:
     url: /develop/
     img: /images/logos/github.png
     description: 各种开发资源    
-  - name: API资源站
-    url: /api/
-    img: /images/logos/github.png
-    description: 各种免费api资源
   - name: 搞文档
     url: /document/
     img: /images/logos/github.png
     description: 各种文档处理
-  - name: 待分类
-    url: /other/
-    img: /images/logos/github.png
-    description: 各种待分类的网站
   - name: git免费电子书
     url: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md
     img: /images/logos/github.png
     description: github上免费的电子书
-  - name: 信息查询
-    url: /info/
-    img: /images/logos/github.png
-    description: 各类信息查询
+
 
 server:
   - name: 天翼云
@@ -144,10 +136,6 @@ server:
     url: https://marketing.qiniu.com/activity/2024-new-act?entry=index-advert#qvm-package-title
     img: /images/logos/github.png
     description: 七牛云
-  - name: 新浪云
-    url: https://sinacloud.com/?channel=chinapp.com
-    img: /images/logos/github.png
-    description: 新浪云
 
 doc:
   - name: Flask
@@ -230,7 +218,113 @@ webNav:
     url: https://www.ixueshu.com/
     img: /images/logos/github.png
     description: 学术资源下载
-    
+  - name: 办公人导航
+    url: https://www.bgrdh.com/
+    img: /images/logos/github.png
+    description: 实用的办公生活导航网站
+  - name: 蜘蛛导航
+    url: https://www.zhizhudh.com/
+    img: /images/logos/github.png
+    description: 收集全网最好用的在线工具
+  - name: 轻工具导航
+    url: https://qinggongju.com/
+    img: /images/logos/github.png
+    description: 一个专注收集免费分享优质免费资源的导航
+  - name: tbox导航
+    url: https://www.tboxn.com/
+    img: /images/logos/github.png
+    description: 只收录优质在线工具的导航
+  - name: 宝藏影视导航
+    url: https://tv.baozangdh.com/
+    img: /images/logos/github.png
+    description: 只收录优质在线工具的导航
+  - name: HiPPTer
+    url: https://www.hippter.com/
+    img: /images/logos/github.png
+    description: PPT资源的导航
+  - name: 阡途导航
+    url: http://123.tentod.com/
+    img: /images/logos/github.png
+    description: 
+  - name: 三顿导航
+    url: https://sandunppt.com/
+    img: /images/logos/github.png
+    description: ppt设计导航
+  - name: YBX
+    url: https://ybx.com/zh
+    img: /images/logos/github.png
+    description: 最好用的导航站和AI工具箱列表
+
+software:
+  - name: 六音软件
+    url: https://6yso.com/
+    img: /images/logos/github.png
+    description: 源于一个热爱折腾的人所建，网站搜集各种软件、有趣的内容、实用的教程等，同时提供一个分享交流的平台
+  - name: i3综合社区
+    url: https://www.i3zh.com/
+    img: /images/logos/github.png
+    description: 搜罗全网黑科技应用
+  - name: 反斗软件
+    url: http://www.apprcn.com/
+    img: /images/logos/github.png
+    description: 专注个人软件和绿色软件
+  - name: 软件共享
+    url: http://www.zhanshaoyi.com/rjxz.html
+    img: /images/logos/github.png
+    description: 共享一些好用的软件
+  - name: 佛系软件
+    url: https://foxirj.com/
+    img: /images/logos/github.png
+    description: 
+  - name: 好料空间
+    url: https://www.h6room.com/
+    img: /images/logos/github.png
+    description: 互联网好料，安卓/PC软件分享
+  - name: OS SSR
+    url: https://www.osssr.com/
+    img: /images/logos/github.png
+    description: 软件资源下载平台
+  - name: 乐享
+    url: https://www.lxapk.com/
+    img: /images/logos/github.png
+    description: 专注于手机应用分享网站，为用户提供各种绿色、实用、有趣的、好玩的应用和技术教程分享交流的平台
+  - name: MEFCL
+    url: https://www.mefcl.com/
+    img: /images/logos/github.png
+    description: 分享纯净好资源
+  - name: 殁漂遥
+    url: https://www.mpyit.com/
+    img: /images/logos/github.png
+    description: 不以营利为目的的分享网站
+  - name: App喵
+    url: https://www.appmiu.com/
+    img: /images/logos/github.png
+    description: 软件喵资源分享
+  - name: 枫音应用
+    url: https://www.fy6b.com/
+    img: /images/logos/github.png
+    description: 软件分享站
+  - name: 5ilr绿软
+    url: https://www.5ilr.com/
+    img: /images/logos/github.png
+    description: 力争做最靠谱的下载网
+  - name: 落尘之木
+    url: https://www.luochenzhimu.com/
+    img: /images/logos/github.png
+    description: 
+  - name: 一蓑烟雨
+    url: https://www.zaera.cn/
+    img: /images/logos/github.png
+    description: 资源分享站
+  - name: 软件限免
+    url: https://xianmian.notion.site/
+    img: /images/logos/github.png
+    description: 
+  - name: 海棠网
+    url: https://www.haitangw.cc/
+    img: /images/logos/github.png
+    description: 
+
 learn:
   - name: 国家终身教育平台
     url: https://le.ouchn.cn/home
@@ -448,10 +542,7 @@ wechatArticle:
     url: /share/
     img: /images/logos/github.png
     description: 每天分享免费好玩的资源
-  - name: 其他
-    url: /media/
-    img: /images/logos/github.png
-    description: 待分类的资源    
+  
 
 about:
   url: /about/
