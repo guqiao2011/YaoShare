@@ -38,9 +38,6 @@ menu:
   - name: 免费资源大全
     icon: fa fa-star
     config: FreeResConf
-  - name: 服务器资源
-    icon: fa fa-star
-    config: server
   - name: 薅羊毛
     icon: fa fa-star
     config: welfare               
@@ -90,32 +87,6 @@ FreeResConf:
     url: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md
     img: /images/logos/github.png
     description: github上免费的电子书
-
-server:
-  - name: 天翼云
-    url: https://www.ctyun.cn/act/trial/central
-    img: /images/logos/github.png
-    description: 天翼云
-  - name: 移动云
-    url: https://ecloud.10086.cn/portal/act/freeCloud
-    img: /images/logos/github.png
-    description: 移动云
-  - name: 京东云
-    url: https://www.jdcloud.com/cn/pages/newuser2022
-    img: /images/logos/github.png
-    description: 京东云
-  - name: 华为云
-    url: https://activity.huaweicloud.com/discount_area_v5/index.html
-    img: /images/logos/github.png
-    description: 华为云
-  - name: 腾讯云
-    url: https://cloud.tencent.com/act/pro/free?from=20417
-    img: /images/logos/github.png
-    description: 腾讯云
-  - name: 七牛云
-    url: https://marketing.qiniu.com/activity/2024-new-act?entry=index-advert#qvm-package-title
-    img: /images/logos/github.png
-    description: 七牛云      
 
 welfare:
   - name: 天天赚
@@ -212,6 +183,10 @@ webNav:
     url: https://ybx.com/zh
     img: /images/logos/github.png
     description: 最好用的导航站和AI工具箱列表
+  - name: 爱达杂货铺
+    url: https://adzhp.cc/
+    img: /images/logos/github.png
+    description: 收集那些有用的东西
 
 software:
   - name: 六音软件
