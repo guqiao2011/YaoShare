@@ -434,7 +434,7 @@ onlineWebsite:
     img: /images/logos/github.png
     description: 
   - name: YaogerBlog
-    url: hhttp://yaoger.endl.site/YaogerBlog/
+    url: http://yaoger.endl.site/YaogerBlog/
     img: /images/logos/github.png
     description: 
   - name: vmhost
